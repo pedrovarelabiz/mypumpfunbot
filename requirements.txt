@@ -1,0 +1,9 @@
+requests
+sqlalchemy
+pandas
+schedule
+python-dotenv
+vaderSentiment
+telegram
+flask
+PyYAML
